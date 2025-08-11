@@ -1,5 +1,5 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
+baseURL = 'https://www.rutadelaiguaviva.com/'
+languageCode = 'es-es'
 title = 'Ruta del Aigua Viva'
 theme = 'ananke'
 
