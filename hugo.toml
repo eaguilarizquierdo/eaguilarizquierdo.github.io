@@ -1,0 +1,21 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Ruta del Aigua Viva'
+theme = 'ananke'
+
+[menu]
+  [[menu.main]]
+    identifier = "libro"
+    name = "Libro"
+    url = "/libro/"
+    weight = 1
+  [[menu.main]]
+    identifier = "etapas"
+    name = "Etapas"
+    url = "/etapas/"
+    weight = 2
+  [[menu.main]]
+    identifier = "correspondencia"
+    name = "Correspondencia"
+    url = "/correspondencia/"
+    weight = 2
