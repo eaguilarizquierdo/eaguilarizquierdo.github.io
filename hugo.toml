@@ -1,4 +1,4 @@
-baseURL = 'https://www.rutadelaiguaviva.com/'
+baseURL = '//eaguilarizquierdo.github.io/'
 languageCode = 'es-es'
 title = 'Ruta del Aigua Viva'
 theme = 'ananke'
